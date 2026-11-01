@@ -1,0 +1,10 @@
+{
+  "name": "gtm-os-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A forkable marketing system with shared company context, skills and a pre-publish gate.",
+  "license": "MIT",
+  "scripts": {
+    "test": "bun test"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "mcp__*__*send*",
+      "mcp__*__*publish*",
+      "mcp__*__*schedule*",
+      "mcp__*__create_post*",
+      "mcp__*__*delete*",
+      "mcp__*__*create_contact*",
+      "mcp__*__*update_contact*",
+      "mcp__*__*create_deal*",
+      "mcp__*__*update_deal*",
+      "mcp__*__*create_company*",
+      "mcp__*__*update_company*",
+      "Bash(curl -X POST *)",
+      "Bash(curl --data *)",
+      "Bash(curl -d *)"
+    ],
+    "ask": [
+      "Bash(git push *)"
+    ]
+  }
+}

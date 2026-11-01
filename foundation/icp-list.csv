@@ -1,0 +1,26 @@
+account,domain,hq,units,management_model,asset_type,messaging_today,public_signals,fictional
+Fernhollow Living,fernhollow.example,"Columbus, OH",6400,owner-operator,conventional multifamily,texts from personal phones,job post for resident experience manager,yes
+Quarrystone Residential,quarrystone.example,"Indianapolis, IN",11200,owner-operator,conventional multifamily,"built into PMS, rarely used",acquired 3 buildings,yes
+Kettlebrook Homes,kettlebrook.example,"Louisville, KY",900,owner-operator,single-family,email,none found,yes
+Lanternfield Communities,lanternfield.example,"Raleigh, NC",15800,owner-operator,conventional multifamily,paper notices,new head of operations,yes
+Mossgate Property Group,mossgate.example,"Tampa, FL",24000,mixed,conventional multifamily,dedicated tool under contract,none found,yes
+Driftmere Apartments,driftmere.example,"Boise, ID",2300,owner-operator,conventional multifamily,email,reviews mention missed notices,yes
+Copperwick Living,copperwick.example,"Kansas City, MO",4100,fee manager,conventional multifamily,"built into PMS, rarely used",none found,yes
+Harrowgate Residential,harrowgate.example,"Richmond, VA",8700,owner-operator,conventional multifamily,texts from personal phones,reviews mention slow maintenance updates; new head of operations,yes
+Willowmarsh Properties,willowmarsh.example,"Omaha, NE",3200,mixed,mixed,email,job post for resident retention lead,yes
+Pebblecrest Management,pebblecrest.example,"Tucson, AZ",1800,owner-operator,student,paper notices,none found,yes
+Ironvale Living,ironvale.example,"Charlotte, NC",13400,owner-operator,conventional multifamily,email,acquired 5 buildings; job post for resident experience manager,yes
+Brackenridge Homes,brackenridge.example,"Toronto, ON",7600,owner-operator,conventional multifamily,email,none found,yes
+Saltmeadow Residential,saltmeadow.example,"Savannah, GA",2900,owner-operator,conventional multifamily,texts from personal phones,reviews mention missed notices,yes
+Thistlewood Communities,thistlewood.example,"Milwaukee, WI",5300,mixed,conventional multifamily,"built into PMS, rarely used",new head of operations,yes
+Amberlane Property Co,amberlane.example,"Spokane, WA",450,owner-operator,conventional multifamily,paper notices,none found,yes
+Crestholm Apartments,crestholm.example,"Denver, CO",9800,owner-operator,conventional multifamily,dedicated tool under contract,none found,yes
+Larkspur Hollow Living,larkspurhollow.example,"Austin, TX",17100,owner-operator,conventional multifamily,email,acquired 2 buildings,yes
+Glimmerbank Residential,glimmerbank.example,"Nashville, TN",6000,fee manager,conventional multifamily,texts from personal phones,job post for resident experience manager,yes
+Stonequill Homes,stonequill.example,"Albuquerque, NM",2100,owner-operator,mixed,email,none found,yes
+Oakhaven Rise Communities,oakhavenrise.example,"Greenville, SC",4800,owner-operator,conventional multifamily,paper notices,reviews mention slow maintenance updates,yes
+Fogbridge Living,fogbridge.example,"Sacramento, CA",12600,owner-operator,conventional multifamily,"built into PMS, rarely used",new head of operations; job post for resident retention lead,yes
+Rimeford Residential,rimeford.example,"Des Moines, IA",1300,owner-operator,conventional multifamily,email,none found,yes
+Tidewick Properties,tidewick.example,"Jacksonville, FL",7200,mixed,conventional multifamily,texts from personal phones,acquired 4 buildings,yes
+Hollowmere Group,hollowmere.example,"Pittsburgh, PA",21500,owner-operator,conventional multifamily,email,reviews mention missed notices,yes
+Cinderfall Apartments,cinderfall.example,"Salt Lake City, UT",3600,owner-operator,conventional multifamily,texts from personal phones,job post for resident experience manager; reviews mention missed notices,yes
